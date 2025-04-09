@@ -18,7 +18,8 @@
   
 **Ferramentas de Desenvolvimento**
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,clion,go)](https://skillicons.dev)
+
   <br/>
 <br/>
 
